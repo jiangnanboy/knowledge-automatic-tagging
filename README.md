@@ -8,7 +8,7 @@
 数据集包含高中4个科目的题目，每门科目下又有不同的主题。如：**历史-古代史(1000)** 括号内的数字表示这个主题有1000道题目，总共有29000多道题目。同时，每道题目有许多知识点，如下：
 
 
-![image](https://raw.githubusercontent.com/jiangnanboy/knowledge-automatic-tagging/master/img/rawdata1.png)
+![image](https://raw.githubusercontent.com/jiangnanboy/knowledge-automatic-tagging/master/img/rawdata1.jpg)
 
 
 ![image](https://raw.githubusercontent.com/jiangnanboy/knowledge-automatic-tagging/master/img/rawdata2.png)
